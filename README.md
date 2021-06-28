@@ -1,5 +1,2 @@
-I want to become a Full Stack Web Developer.
-Technologies that I have applied so far for my training and project work are: 
-HTML, CSS, JavaScript, JQuery, Node, JSON, GIT, Bootstrap and Media Query.
-I am also an experinced professional engineer and process simulation expert.
-My passion is to use my professional experince to develop or manage high quality web applications.
+I want to become a Full Stack Web Developer. The technologies that I have applied so far for my training and project work are: HTML, CSS, JavaScript, JQuery, Node, Express Api, MSQL, Sequelize, JSON, GIT, Bootstrap and Media Query. My knowledge and experience in the web development is still at the basic level; however my intention is to get more experience in the web development by self-study after the Rice bootcapm.
+I am also an experienced professional engineer and process simulation expert. I may like to change my profession if I find more opportunities in the web development. My passion is to use my professional experience to develop or manage high quality web applications in the engineering or FinTech areas.
